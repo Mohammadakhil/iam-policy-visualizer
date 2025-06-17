@@ -35,7 +35,6 @@ Paste into the app:
 }
 
 
-
 ## Clone the repo:
 git clone https://github.com/Mohammadakhil/iam-policy-visualizer.git
 cd iam-policy-visualizer
@@ -51,3 +50,4 @@ pip install -r requirements.txt
 
 ## Run the App
 streamlit run app.py
+
